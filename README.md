@@ -32,7 +32,7 @@
     src="https://img.shields.io/badge/0x4F75746C6177-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://twitter.com/alekswritescode](https://tryhackme.com/p/OutlawOnTHM">
+<a href="https://tryhackme.com/p/OutlawOnTHM">
   <img
     alt="TryHackMe"
     src="https://img.shields.io/badge/OutlawOnTHM-1DA1F2?logo=tryhackme&logoColor=white&style=for-the-badge&color=red"
