@@ -50,7 +50,3 @@
     src="https://img.shields.io/badge/OutlawOnRootMe-1DA1F2?logo=rootme&logoColor=white&style=for-the-badge&color=black"
   />
 </a>
-
----
-
-
