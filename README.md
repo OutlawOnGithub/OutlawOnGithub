@@ -9,7 +9,7 @@
 
 
 ### The time I spent making random projects
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OutlawOnGithub&theme=midnight-purple" /> 
+<img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OutlawOnGithub&theme=midnight-purple" /> 
 
 
 ---
